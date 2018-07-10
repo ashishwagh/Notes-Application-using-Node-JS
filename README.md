@@ -6,17 +6,17 @@ The application is aslo enabled with the help command.
 
 Sample Commands:
 
-1.Adding a new note
+1.Adding a new note:
 node app.js add --title="one" --body="This is a body of one."
 
-2.Reading a note
+2.Reading a note:
 node app.js read --title="one"
 
-3.Removing the perticular note
+3.Removing the perticular note:
 node app.js remove --title="one"
 
-4.Listing the all added notes
+4.Listing the all added notes:
 node app.js list
 
-5.For displaying the help
+5.For displaying the help:
 node app.js --help
